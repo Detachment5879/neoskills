@@ -410,3 +410,14 @@ MIT -- see [LICENSE](LICENSE)
 ## Author
 
 Richard Tong
+
+---
+
+## Student Fork
+
+This repository is a **personal fork** of [neolaf2/neoskills](https://github.com/neolaf2/neoskills) created for academic coursework.
+
+**Forked by:** Detachment5879  
+**Course:** Elite20 Starter — Version Control Assignment  
+**Fork URL:** https://github.com/Detachment5879/neoskills  
+**Date:** May 2026
