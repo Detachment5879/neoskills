@@ -16,15 +16,16 @@
 ### ✅ Task 2 — Personal GitHub Fork with ≥3 commits
 
 **Fork created:** https://github.com/Detachment5879/neoskills  
-**Total own commits:** 5 (exceeds minimum 3)
+**Total own commits:** 6 (exceeds minimum 3)
 
-| # | Commit | Message | File |
-|---|--------|---------|------|
+| # | Commit | Message | File(s) |
+|---|--------|---------|---------|
 | 1 | `8106675` | `docs: add student fork attribution section to README` | `README.md` |
 | 2 | `5108f21` | `chore: improve .gitignore with dev caches, editor files, and env patterns` | `.gitignore` |
 | 3 | `5b10708` | `docs: add homework submission document` | `HOMEWORK_SUBMISSION.md` |
 | 4 | `efe24d9` | `docs: update commit hashes in homework submission document` | `HOMEWORK_SUBMISSION.md` |
 | 5 | `7ca4e5d` | `docs: update submission doc with 4th commit info` | `HOMEWORK_SUBMISSION.md` |
+| 6 | `a34b25e` | `feat: complete Tasks 4-6 — KSTAR loop, artifact, AI+X 3D card` | 6 files |
 
 **Git status:** Working tree clean, all pushed to `origin/main`.
 
