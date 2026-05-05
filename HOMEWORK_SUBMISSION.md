@@ -16,9 +16,22 @@
 
 ---
 
-## Commits (3 total)
+## Commits (4 total)
 
-### Commit 1 — `8106675`
+| # | Commit | Message | File |
+|---|--------|---------|------|
+| 1 | `8106675` | `docs: add student fork attribution section to README` | `README.md` |
+| 2 | `5108f21` | `chore: improve .gitignore with dev caches, editor files, and env patterns` | `.gitignore` |
+| 3 | `5b10708` | `docs: add homework submission document` | `HOMEWORK_SUBMISSION.md` |
+| 4 | `efe24d9` | `docs: update commit hashes in homework submission document` | `HOMEWORK_SUBMISSION.md` |
+
+> **Note:** Please update the actual commit hashes in this document after the push.
+
+---
+
+### Detailed breakdown
+
+#### Commit 1 — `8106675`
 
 | Field | Value |
 |-------|-------|
@@ -27,7 +40,7 @@
 | **Description** | Added a "Student Fork" section at the end of `README.md` identifying this as a personal fork of `neolaf2/neoskills` for academic coursework. Includes fork URL, student name, course name, and date. |
 | **Diff** | `+11` lines |
 
-### Commit 2 — `5108f21`
+#### Commit 2 — `5108f21`
 
 | Field | Value |
 |-------|-------|
@@ -36,14 +49,23 @@
 | **Description** | Extended `.gitignore` to cover common development artifacts that were missing: `.ruff_cache/`, `.pytest_cache/`, `.mypy_cache/`, `venv/`, `env/`, editor backup files (`.swp`, `.swo`, `*~`), IDE directories (`.vscode/`, `.idea/`), and `.env.local`. |
 | **Diff** | `+17` lines |
 
-### Commit 3 — `5b10708`
+#### Commit 3 — `5b10708`
 
 | Field | Value |
 |-------|-------|
 | **Message** | `docs: add homework submission document` |
 | **File Changed** | `HOMEWORK_SUBMISSION.md` |
-| **Description** | Added this submission document detailing all 3 commits made to the fork. |
+| **Description** | Added the initial version of this submission document detailing all commits made to the fork. |
 | **Diff** | `+1` file (`72` lines) |
+
+#### Commit 4 — `efe24d9`
+
+| Field | Value |
+|-------|-------|
+| **Message** | `docs: update commit hashes in homework submission document` |
+| **File Changed** | `HOMEWORK_SUBMISSION.md` |
+| **Description** | Updated commit hashes and summaries to reflect the actual values after push. |
+| **Diff** | `+3` / `-3` lines |
 
 ---
 
