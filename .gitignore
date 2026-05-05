@@ -8,4 +8,21 @@ wheels/
 
 # Virtual environments
 .venv
+venv/
+env/
+
+# Development caches
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+
+# Editor and OS files
 .DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Environment files
+.env.local
