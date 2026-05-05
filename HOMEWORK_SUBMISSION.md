@@ -36,14 +36,14 @@
 | **Description** | Extended `.gitignore` to cover common development artifacts that were missing: `.ruff_cache/`, `.pytest_cache/`, `.mypy_cache/`, `venv/`, `env/`, editor backup files (`.swp`, `.swo`, `*~`), IDE directories (`.vscode/`, `.idea/`), and `.env.local`. |
 | **Diff** | `+17` lines |
 
-### Commit 3 — `b2f985b` (pending — this document)
+### Commit 3 — `5b10708`
 
 | Field | Value |
 |-------|-------|
 | **Message** | `docs: add homework submission document` |
 | **File Changed** | `HOMEWORK_SUBMISSION.md` |
 | **Description** | Added this submission document detailing all 3 commits made to the fork. |
-| **Diff** | `+1` file |
+| **Diff** | `+1` file (`72` lines) |
 
 ---
 
@@ -64,7 +64,7 @@ git log --oneline --all
 Expected output (3 commits on top of upstream):
 
 ```
-b2f985b docs: add homework submission document
+5b10708 docs: add homework submission document
 5108f21 chore: improve .gitignore with dev caches, editor files, and env patterns
 8106675 docs: add student fork attribution section to README
 7c4dada chore: bump to 0.4.2 — fix version string in installed package
